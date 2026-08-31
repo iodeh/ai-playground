@@ -5,3 +5,7 @@ A collection of scripts and tools related to AI-driven development.
 Most of this stuff has been featured on my [YouTube channel](https://www.youtube.com/@NoPlaceLikeLocalhost)
 in various videos.
 
+## License
+
+Everything in this AI playground is licensed under the [MIT License](LICENSE)
+
