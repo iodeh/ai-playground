@@ -1,6 +1,16 @@
-# dots.tts
+# DEPRECATED
 
-These are support scripts for use with [dots.tts](https://github.com/rednote-hilab/dots.tts) in a local environment.
+These are the old scripts that were used with [TalkWithMe](https://github.com/scorbo2/TalkWithMe) up to and
+including version 6. Starting in TalkWithMe v7, these scripts are now deprecated in favor of the much
+better [tts-serve](https://github.com/scorbo2/tts-serve) project.
+
+These scripts are kept here for historical reasons only. All new development should use `tts-serve`,
+as it's just so much better.
+
+## Historical stuff follows
+
+These are support scripts for use with [dots.tts](https://github.com/rednote-hilab/dots.tts),
+Qwen3-TTS, or OmniVoice in a local environment.
 
 - `server_dotsTTS.py` - a simple REST API around `dots.tts`
 - `server_qwen3TTS.py` - a simple REST API around `Qwen3-TTS`
